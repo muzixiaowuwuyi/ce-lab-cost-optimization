@@ -1,0 +1,5 @@
+Item,Usage Scenario,Unit Price,Theoretical Monthly Cost,Actual Lab Cost (with Free Tier),Savings Strategy
+EC2 Compute (t3.micro),24/7 Running,$0.0104/hr,$7.48,$0.00,"Always terminate after study; covered by Free Tier"
+EBS Storage (gp3),8GB Static,$0.08/GB-month,$0.64,$0.00,"Included in Free Tier (up to 30GB)"
+Elastic IP,Idle/Unattached,$0.005/hr,$3.65,$0.00,"Never left unattached; released immediately"
+Total,,,$11.77,$0.00,100% Effective Savings
